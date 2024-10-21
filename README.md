@@ -8,7 +8,7 @@ This repository contains scripts to address and answer Problem Set 4: API´s scr
 
 The team members are:
 
-*Mayu Katafuchi
-*Bharti Parihar
-*Fabian Romero
-*Sarah Ellen Strickland
+- Mayu Katafuchi
+- Bharti Parihar
+- Fabian Romero
+- Sarah Ellen Strickland
